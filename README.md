@@ -1,1 +1,3 @@
-# simple-clock
+A simple clock.
+
+V
